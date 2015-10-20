@@ -3,9 +3,9 @@
 testです
 
 
-＃＃メンバー
+##メンバー
 
-＊testMember01
-＊testMember02
-＊testMember03
+*testMember01
+*testMember02
+*testMember03
 
