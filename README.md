@@ -1,9 +1,12 @@
 # test
+Branch1を追加1
 
 testです
 ------------------------
 
 ##メンバー
+
+Branch1を追加
 
 *testMember01
 *testMember02
@@ -13,3 +16,4 @@ testです
 *testMember05
 *testMember06
 
+Branch1を追加
